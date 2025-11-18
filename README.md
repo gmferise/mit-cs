@@ -30,7 +30,7 @@ Taught in C and C++, beginner friendly.
 
 https://ocw.mit.edu/courses/6-s096-introduction-to-c-and-c-january-iap-2013/
 
-### 6.1020 Software Construction
+### 6.005 Software Construction
 Taught in Java, beginner friendly.
 
 https://ocw.mit.edu/courses/6-005-software-construction-spring-2016/
@@ -62,7 +62,9 @@ https://ocw.mit.edu/courses/6-s096-effective-programming-in-c-and-c-january-iap-
 ### 6.035 Computer Language Engineering
 Taught in Java.
 
-Prerequisites: [6.1020](#61020-software-construction)
+Prerequisites: [6.005](#6005-software-construction)
+
+https://ocw.mit.edu/courses/6-035-computer-language-engineering-spring-2010/
 
 ### 6.1200J Mathematics for Computer Science
 Prerequisites: [18.01SC](#1801sc-single-variable-calculus)
@@ -83,7 +85,7 @@ https://ocw.mit.edu/courses/6-041sc-probabilistic-systems-analysis-and-applied-p
 
 Supplemental Resource: https://ocw.mit.edu/courses/res-6-012-introduction-to-probability-spring-2018/
 
-### 6.1210 Introduction to Algorithms
+### 6.006 Introduction to Algorithms
 Prerequisites: [6.0001](#60001-introduction-to-programming-and-computer-science), [6.1200J](#61200j-mathematics-for-computer-science)
 
 https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/
@@ -95,7 +97,6 @@ Prerequisites: [6.035](#6035-computer-language-engineering)
 
 https://ocw.mit.edu/courses/6-820-fundamentals-of-program-analysis-fall-2015/
 
-https://ocw.mit.edu/courses/6-035-computer-language-engineering-spring-2010/
 ### 8.02 Physics II: Electricity and Magentism
 A three-course series.
 
@@ -115,21 +116,19 @@ Prerequisites: [6.0002](#60002-introduction-to-computational-thinking-and-data-s
 
 https://ocw.mit.edu/courses/6-036-introduction-to-machine-learning-fall-2020/
 
-https://openlearninglibrary.mit.edu/courses/course-v1:MITx+6.036+1T2019/about
-
-### 6.5831 Database Systems
+### 6.5830 Database Systems
 Taught in Go, beginner friendly.
 
-Prerequisites: [6.1210](#61210-introduction-to-algorithms)
+Prerequisites: [6.006](#6006-introduction-to-algorithms)
 
 https://ocw.mit.edu/courses/6-5830-database-systems-fall-2023/
 
-### 6.1220J Design and Analysis of Algorithms
-Prerequisites: [6.1210](#61210-introduction-to-algorithms), [6.1200J](#61200j-mathematics-for-computer-science)
+### 6.046J Design and Analysis of Algorithms
+Prerequisites: [6.006](#6006-introduction-to-algorithms), [6.1200J](#61200j-mathematics-for-computer-science)
 
 https://ocw.mit.edu/courses/6-046j-design-and-analysis-of-algorithms-spring-2015/
 
-### 6.1910 Computation Structures
+### 6.004 Computation Structures
 Prerequisites: [6.0001](#60001-introduction-to-programming-and-computer-science), [6.0002](#60002-introduction-to-computational-thinking-and-data-science), [8.02](#802-physics-ii-electricity-and-magentism)
 
 https://ocw.mit.edu/courses/6-004-computation-structures-spring-2017/
@@ -156,12 +155,12 @@ https://ocw.mit.edu/courses/6-034-artificial-intelligence-fall-2010/
 ### 6.172 Performance Engineering of Software Systems
 Taught in C.
 
-Prerequisites: [6.1020](#61020-software-construction), [6.1210](#61210-introduction-to-algorithms), [6.1910](#61910-computation-structures)
+Prerequisites: [6.005](#6005-software-construction), [6.006](#6006-introduction-to-algorithms), [6.004](#6004-computation-structures)
 
 https://ocw.mit.edu/courses/6-172-performance-engineering-of-software-systems-fall-2018/
 
-### 6.1800 Computer Systems Engineering
-Prerequisites: [6.1020](#61020-software-construction), [6.1910](#61910-computation-structures)
+### 6.033 Computer Systems Engineering
+Prerequisites: [6.005](#6005-software-construction), [6.004](#6004-computation-structures)
 
 https://ocw.mit.edu/courses/6-033-computer-system-engineering-spring-2018/
 
@@ -169,25 +168,25 @@ https://ocw.mit.edu/courses/6-033-computer-system-engineering-spring-2018/
 
 ### 6.890 Algorithmic Lower Bounds: Fun with Hardness Proofs
 
-Prerequisites: [6.1220J](#61220j-design-and-analysis-of-algorithms)
+Prerequisites: [6.046J](#6046j-design-and-analysis-of-algorithms)
 
 https://ocw.mit.edu/courses/6-890-algorithmic-lower-bounds-fun-with-hardness-proofs-fall-2014/
 
 ### 6.5060 Algorithm Engineering
 
-Prerequisites: [6.1220J](#61220j-design-and-analysis-of-algorithms), [6.172](#6172-performance-engineering-of-software-systems)
+Prerequisites: [6.046J](#6046j-design-and-analysis-of-algorithms), [6.172](#6172-performance-engineering-of-software-systems)
 
 https://ocw.mit.edu/courses/6-5060-algorithm-engineering-spring-2023/
 
 ### 6.854J Advanced Algorithms
 
-Prerequisites: [6.1210](#61210-introduction-to-algorithms), [18.700](#18700-linear-algebra)
+Prerequisites: [6.006](#6006-introduction-to-algorithms), [18.700](#18700-linear-algebra)
 
 https://ocw.mit.edu/courses/6-854j-advanced-algorithms-fall-2008/
 
 ### 6.851 Advanced Data Structures
 Corequisite with [6.854J](#6854j-advanced-algorithms).
 
-Prerequisites: [6.1220J](#61220j-design-and-analysis-of-algorithms)
+Prerequisites: [6.046J](#6046j-design-and-analysis-of-algorithms)
 
 https://ocw.mit.edu/courses/6-851-advanced-data-structures-spring-2012/
